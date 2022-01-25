@@ -1,6 +1,3 @@
-### See our video tutorial here:
+### Tetris walkthrough:
 
-https://youtu.be/nvm3c6ilcN8
-
-### Check out the write-up here:
-https://anobjectisa.com/?p=135
+https://youtu.be/ZGOaCxX8HIU

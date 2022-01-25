@@ -1,6 +1,13 @@
+// import React from 'react';
+// import { render } from 'react-dom';
+
+// import Popup from './components/Popup.js';
+
+// render(<Popup />, document.querySelector('#popup'));
+
 import React from 'react';
 import { render } from 'react-dom';
 
-import Popup from './components/Popup.js';
+import App from './App';
 
-render(<Popup />, document.querySelector('#popup'));
+render(<App />, document.querySelector('#popup'));
